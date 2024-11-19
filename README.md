@@ -4,7 +4,6 @@ I’m a .NET developer passionate about building efficient and scalable solution
 ---
 ## 🌱 Currently Exploring
 - **Blazor** and **MAUI** for cross-platform development.
-- Cloud-native tools like **Azure PaaS**, **Service Bus**, and **Kubernetes**.
 ---
 ## 👀 Interests
 - Clean code and SOLID principles.
